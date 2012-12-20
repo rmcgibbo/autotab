@@ -1,9 +1,7 @@
 # autotab
 
 experimental automatic tab completion for IPython by parsing numpy
-formatted docstrings on the fly. This goes along with IPython PR 2701
-
-https://github.com/ipython/ipython/pull/2701
+formatted docstrings on the fly. This goes along with [IPython PR 2701](https://github.com/ipython/ipython/pull/2701).
 
 ## examples
 
