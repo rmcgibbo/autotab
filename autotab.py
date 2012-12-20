@@ -1,4 +1,3 @@
-# stdlib
 import inspect
 import numpy as np
 from IPython.extensions.completion import _init_completers
